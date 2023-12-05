@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abid Hossain Apon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Django developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidapon&label=Profile%20views&color=0e75b6&style=flat" alt="abidapon" /> </p>
 
 - 👨‍💻 All of my projects are available at https://abid-apon.onrender.com
 
-- 💬 Ask me about **Javascript and React.JS**
+- 💬 Ask me about **Python & Django**
 
-- 📫 How to reach me **developer.abid@gmail.com**
+- 📫 How to reach me **aponabid153@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
